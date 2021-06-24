@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=MinchanWorld&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=ff5733&text=Jung%20Minchan&fontColor=f9f9f9&animation=twinkling)
 <br></br>
 <p align="center">
     <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> </a> 
