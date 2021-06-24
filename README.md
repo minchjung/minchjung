@@ -19,7 +19,7 @@
 <p align="center"> Everyday celebrating:tada: of new to learn and fact to know that</p>
 <p align="center">  My life has just getting started :wave:</p>
 <p align="center">
-    <span> Prjoect List  </span>
+    <span> Project List  </span>
     <span>:point_right:</span>
     <a href="https://github.com/minchjung/PROJECTLIST">:dart::dart::dart:</a>
     <span>:point_left:</span>
