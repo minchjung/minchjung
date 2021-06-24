@@ -13,4 +13,19 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width=80" height=80"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width=80" height=80"/> </a> 
 </p>
+<br></br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minchjung&show_icons=true&locale=en" alt="minchjung" /></p>
+<br></br>
+<p align="center" style="font-size: x-large;" >  Programming since Dec 20-2020 :footprints:</p>
+<p align="center">Amazingly love:heart: learning all sortsa skills of Programmaing</p>
+<p align="center"> Everyday celebrating:tada: of new to learn and fact to know that</p>
+<p align="center">  My life has just getting started :wave:</p>
+<p align="center">
+    <span> Prjoect List  </span>
+    <span>:point_right:</span>
+    <a href="https://github.com/minchjung/PROJECTLIST">:dart::dart::dart:</a>
+    <span>:point_left:</span>
+</p>
+<p align="center"><a href="https://github.com/minchjung/SpringStudy/wiki">Spring Study</a></p>
+<p align="center"><a href="https://github.com/minchjung/CSstudy/wiki">CS Study</a></p>
+<p align="center"><a href="https://github.com/minchjung/PROJECTLIST/wiki/JUNE-2021">Todo</a></p>
