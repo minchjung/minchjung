@@ -33,8 +33,7 @@
 </h4>
 <p align="center"><a href="https://github.com/minchjung/SpringStudy/wiki/%EB%AA%A9%EC%B0%A8">Spring Study</a></p>
 <p align="center"><a href="https://github.com/minchjung/CSstudy/wiki">CS Study</a></p>
-<p align="center"><a href="https://github.com/m[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-inchjung/PROJECTLIST/wiki/JUNE-2021">Todo</a></p>  
+<p align="center"><a href="https://github.com/minchjung/PROJECTLIST/wiki/JUNE-2021">Todo</a></p>  
 
 <br></br>
 
