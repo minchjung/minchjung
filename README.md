@@ -18,7 +18,6 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width=65" height=65"/> </a> 
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minchjung&show_icons=true&locale=en&" alt="Minchan" /></p>
-<br></br>
 
 <h4 align="center" style="font-size: x-large;" >  Programming since Dec 20-2020 :footprints:</h4>
 <h4 align="center">Amazingly love:heart: learning all sortsa skills of Programmaing</h4>
@@ -34,7 +33,6 @@
 <p align="center"><a href="https://github.com/minchjung/CSstudy/wiki">CS Study</a></p>
 <p align="center"><a href="https://github.com/minchjung/PROJECTLIST/wiki/JUNE-2021">Todo</a></p>  
 
-<br></br>
 <br></br>
 
 <div align="center">
