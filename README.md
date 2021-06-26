@@ -20,21 +20,23 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minchjung&show_icons=true&locale=en&" alt="Minchan" /></p>
 <br></br>
 
-<p align="center" style="font-size: x-large;" >  Programming since Dec 20-2020 :footprints:</p>
-<p align="center">Amazingly love:heart: learning all sortsa skills of Programmaing</p>
-<p align="center"> Everyday celebrating:tada: of new to learn and fact to know that</p>
-<p align="center">  My life has just getting started :wave:</p>
-<p align="center">
+<h4 align="center" style="font-size: x-large;" >  Programming since Dec 20-2020 :footprints:</h4>
+<h4 align="center">Amazingly love:heart: learning all sortsa skills of Programmaing</h4>
+<h4 align="center"> Everyday celebrating:tada: of new to learn and fact to know that</h4>
+<h4 align="center">  My life has just getting started :wave:</h4>
+<h4 align="center">
     <span> Project List  </span>
     <span>:point_right:</span>
     <a href="https://github.com/minchjung/PROJECTLIST">:dart::dart::dart:</a>
     <span>:point_left:</span>
-</p>
+</h4>
 <p align="center"><a href="https://github.com/minchjung/SpringStudy/wiki/%EB%AA%A9%EC%B0%A8">Spring Study</a></p>
 <p align="center"><a href="https://github.com/minchjung/CSstudy/wiki">CS Study</a></p>
 <p align="center"><a href="https://github.com/minchjung/PROJECTLIST/wiki/JUNE-2021">Todo</a></p>  
+
 <br></br>
 <br></br>
+
 <div align="center">
     <h3>Inept</h3>
     <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
