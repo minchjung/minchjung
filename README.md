@@ -2,7 +2,7 @@
 <br></br>
 <div align="center" style="font-size: 50px;">
     <span>
-        <img src="https://img.shields.io/badge/Ept-ffffff?style=flat-square&logo=Skyliner&logoColor=black" width="120" height="80"/></a>&nbsp
+        <a href="https://github.com/minchjung"><img src="https://img.shields.io/badge/Ept-ffffff?style=flat-square&logo=Skyliner&logoColor=black" width="120" height="80"/></a>
     </span>  
 </div>
 <p align="center">
@@ -17,7 +17,8 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width=65" height=65"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width=65" height=65"/> </a> 
 </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=minchjung&hide=contribs,prs&title_color=ff5733&show_icons=true&bg_color=ffffff&text_color=716564&icon_color=ff1500&border_color=ff5733"/>
+<p align="center">
+    <a href="https://github.com/minchjung"><img src="https://github-readme-stats.vercel.app/api?username=minchjung&hide=contribs,prs&title_color=ff5733&show_icons=true&bg_color=ffffff&text_color=716564&icon_color=ff1500&border_color=ff5733"/></a>
 </p>
 
 <h4 align="center" style="font-size: x-large;" >  Programming since Dec 20-2020 :footprints:</h4>
