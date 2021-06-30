@@ -23,7 +23,7 @@
 
 <h4 align="center" style="font-size: x-large;" >  Programming since Dec 20-2020 :footprints:</h4>
 <h4 align="center">Amazingly love:heart: learning all sortsa skills of Programming</h4>
-<h4 align="center"> Everyday celebrating:tada: of new to learn and fact to know that</h4>
+<h4 align="center"> Everyday celebratin':tada: of new to learn and fact to know that</h4>
 <h4 align="center">  My life has just getting started :wave:</h4>
 <h4 align="center">
     <span> Project List  </span>
