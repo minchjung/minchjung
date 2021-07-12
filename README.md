@@ -25,7 +25,6 @@
 <h4 align="center">Amazingly love:heart: learning all sortsa skills of Programming</h4>
 <h4 align="center"> Everyday celebratin':tada: of new to learn and fact to know that</h4>
 <h4 align="center">  My life has just getting started :wave:</h4>
-<h4 align="center"> just got bad injuries in a car accident</h4>
 <h4 align="center">
     <span> Project List  </span>
     <span>:point_right:</span>
@@ -35,7 +34,6 @@
 <p align="center"><a href="https://github.com/minchjung/SpringStudy/wiki/%EB%AA%A9%EC%B0%A8">Spring Study</a></p>
 <p align="center"><a href="https://github.com/minchjung/CSstudy/wiki">CS Study</a></p>
 <p align="center"><a href="https://github.com/minchjung/PROJECTLIST/wiki/July">Todo</a></p> 
-
 <br></br>
 
 <div align="center">
@@ -46,3 +44,5 @@
     <span><img src="https://img.shields.io/badge/ReactivX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white" width="98" height="28"/></a></span>  
     <span><img src="https://img.shields.io/badge/Linux CentOS-EE0000?style=flat-square&logo=RedHat&logoColor=white" width="98" height="28"/></a></span>  
 </div>
+<h3 align="center"> just got bad injuries in a car accident</h4>
+
