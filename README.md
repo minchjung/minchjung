@@ -44,5 +44,5 @@
     <span><img src="https://img.shields.io/badge/ReactivX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white" width="98" height="28"/></a></span>  
     <span><img src="https://img.shields.io/badge/Linux CentOS-EE0000?style=flat-square&logo=RedHat&logoColor=white" width="98" height="28"/></a></span>  
 </div>
-<h3 align="center"> just got bad injuries in a car accident</h4>
+
 
