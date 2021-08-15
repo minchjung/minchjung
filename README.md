@@ -1,7 +1,8 @@
+<h1 align="center">🇰🇷</h1> 
 <a href="https://github.com/minchjung"><img src="https://capsule-render.vercel.app/api?type=soft&color=ff5733&text=Jung,%20Minchan&fontColor=f9f9f9&animation=twinkling"/></a>
 <br></br>
 <div align="center" style="font-size: 50px;">
-    <span>
+    <span>🇰🇷
         <a href="https://github.com/minchjung"><img src="https://img.shields.io/badge/Ept-ffffff?style=flat-square&logo=Skyliner&logoColor=black" width="120" height="80"/></a>
     </span>  
 </div>
