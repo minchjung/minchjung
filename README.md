@@ -1,8 +1,8 @@
-<h1 align="center">🇰🇷</h1> 
+
 <a href="https://github.com/minchjung"><img src="https://capsule-render.vercel.app/api?type=soft&color=ff5733&text=Jung,%20Minchan&fontColor=f9f9f9&animation=twinkling"/></a>
 <br></br>
 <div align="center" style="font-size: 50px;">
-    <span>🇰🇷
+    <span
         <a href="https://github.com/minchjung"><img src="https://img.shields.io/badge/Ept-ffffff?style=flat-square&logo=Skyliner&logoColor=black" width="120" height="80"/></a>
     </span>  
 </div>
@@ -21,7 +21,7 @@
 <p align="center">
     <a href="https://github.com/minchjung"><img src="https://github-readme-stats.vercel.app/api?username=minchjung&hide=contribs,prs&title_color=ff5733&show_icons=true&bg_color=ffffff&text_color=716564&icon_color=ff1500&border_color=ff5733"/></a>
 </p>
-
+<h3 align="center" style="font-size: x-large;" >  🇰🇷 🇰🇷 🇰🇷 </h3>
 <h4 align="center" style="font-size: x-large;" >  Programming since Dec 20-2020 :footprints:</h4>
 <h4 align="center">Amazingly love:heart: learning all sortsa skills of Programming</h4>
 <h4 align="center"> Everyday celebratin':tada: of new to learn and fact to know that</h4>
@@ -36,6 +36,7 @@
 <p align="center"><a href="https://github.com/minchjung/SystemDesign">System Design</a></p>
 <p align="center"><a href="https://github.com/minchjung/CSstudy/wiki">🔅CS Study</a></p>
 <p align="center"><a href="https://github.com/minchjung/PROJECTLIST/wiki/Aug">Todo</a></p> 
+<h3 align="center">🇰🇷 </h3> 
 
 <br></br>
 
