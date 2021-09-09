@@ -11,12 +11,15 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width=65" height=65"/> </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width=65" height=65"/> </a> 
     <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width=65" height=65"/> </a> 
+  
+
 </p>
 <p align="center"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width=65" height=65"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width=65" height=65"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width=65" height=65"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width=65" height=65"/> </a> 
+
 </p>
 <p align="center">
     <a href="https://github.com/minchjung"><img src="https://github-readme-stats.vercel.app/api?username=minchjung&hide=contribs,prs&title_color=ff5733&show_icons=true&bg_color=ffffff&text_color=716564&icon_color=ff1500&border_color=ff5733"/></a>
@@ -37,14 +40,21 @@
 <p align="center"><a href="https://github.com/minchjung/PROJECTLIST/wiki/Aug">Todo</a></p> 
 
 <br></br>
-
 <div align="center">
     <h3>Inept</h3>
+        <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="react" width=55" height=55"/> </a> 
+      <a href="https://reactjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width=55" height=55"/> </a> 
+    <a href="https://spring.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="react" width=55" height=55"/> </a>
+    <a href="https://kotlin.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="react" width=55" height=55"/> </a>
+</div>
+
+<!-- <div align="center">
     <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
     <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
     <span><img src="https://img.shields.io/badge/KOTLIN-F94421?style=flat-square&logo=Kotlin&logoColor=0095D5" width="98" height="28"/></a></span>  
     <span><img src="https://img.shields.io/badge/ReactivX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white" width="98" height="28"/></a></span>  
     <span><img src="https://img.shields.io/badge/Linux CentOS-EE0000?style=flat-square&logo=RedHat&logoColor=white" width="98" height="28"/></a></span>  
+
 </div>
 
-
+ -->
