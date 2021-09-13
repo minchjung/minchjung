@@ -39,8 +39,6 @@
 <p align="center"><a href="https://github.com/minchjung/CSstudy/wiki">🔅CS Study</a></p>
 <p align="center"><a href="https://github.com/minchjung/PROJECTLIST/wiki/Sep>To do</a></p>
 
-<!-- <p align="center"><a href="https://github.com/minchjung/PROJECTLIST/wiki/Aug">~~Todo~~</a></p>  -->
-
 <br></br>
 <div align="center">
     <h3>Inept</h3>
