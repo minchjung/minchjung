@@ -37,17 +37,16 @@
 <p align="center"><a href="https://github.com/minchjung/SpringStudy/wiki/%EB%AA%A9%EC%B0%A8">Spring Study</a></p>
 <p align="center"><a href="https://github.com/minchjung/SystemDesign">🔅System Design</a></p>
 <p align="center"><a href="https://github.com/minchjung/CSstudy/wiki">🔅CS Study</a></p>
-<p align="center"><a href="https://github.com/minchjung/PROJECTLIST/wiki/Sep>To do</a></p>
+
 
 <br></br>
-<div align="center">
+<div align ="center">
     <h3>Inept</h3>
-        <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="react" width=55" height=55"/> </a> 
-      <a href="https://reactjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width=55" height=55"/> </a> 
+    <a align="center" href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="react" width=55" height=55"/> </a> 
+    <a href="https://reactjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width=55" height=55"/> </a> 
     <a href="https://spring.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="react" width=55" height=55"/> </a>
     <a href="https://kotlin.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="react" width=55" height=55"/> </a>
 </div>
-
 <!-- <div align="center">
     <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
     <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
