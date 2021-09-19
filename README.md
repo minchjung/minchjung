@@ -44,8 +44,10 @@
     <h3>Inept</h3>
     <a align="center" href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="react" width=55" height=55"/> </a> 
     <a href="https://reactjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width=55" height=55"/> </a> 
-    <a href="https://spring.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="react" width=55" height=55"/> </a>
-    <a href="https://kotlin.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="react" width=55" height=55"/> </a>
+        <a href="https://redux.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width=55" height=55"/> </a>
+    <a href="https://spring.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width=55" height=55"/> </a>
+    <a href="https://kotlin.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width=55" height=55"/> </a>
+
 </div>
 <!-- <div align="center">
     <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
