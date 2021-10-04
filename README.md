@@ -29,9 +29,9 @@
 <h4 align="center"> Everyday celebratin':tada: of new to learn and fact to know that</h4>
 <h4 align="center">  My life has just getting started :wave:</h4>
 <h4 align="center">
-    <span> Project List  </span>
+    <span> Todo </span>
     <span>:point_right:</span>
-    <a href="https://github.com/minchjung/PROJECTLIST">:dart::dart::dart:</a>
+    <a href="https://github.com/minchjung/PROJECTLIST/wiki/Sep">:dart::dart::dart:</a>
     <span>:point_left:</span>
 </h4>
 <p align="center"><a href="https://github.com/minchjung/SpringStudy/wiki/%EB%AA%A9%EC%B0%A8">Spring Study</a></p>
