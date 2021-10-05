@@ -28,13 +28,14 @@
 <h4 align="center">Amazingly love:heart: learning all sortsa skills of Programming</h4>
 <h4 align="center"> Everyday celebratin':tada: of new to learn and fact to know that</h4>
 <h4 align="center">  My life has just getting started :wave:</h4>
-<h4 align="center">
+<!-- <h4 align="center">
     <span> Todo </span>
     <span>:point_right:</span>
     <a href="https://github.com/minchjung/PROJECTLIST/wiki/Sep">:dart::dart::dart:</a>
     <span>:point_left:</span>
-</h4>
-<p align="center"><a href="https://github.com/minchjung/SpringStudy/wiki/%EB%AA%A9%EC%B0%A8">Spring Study</a></p>
+</h4> -->
+<p align="center"><a href="https://github.com/minchjung/PROJECTLIST/wiki/Oct">Todo</a></p>
+<p align="center"><a href="https://github.com/minchjung/SpringStudy/wiki/%EB%AA%A9%EC%B0%A8">🔅Spring Study</a></p>
 <p align="center"><a href="https://github.com/minchjung/SystemDesign">🔅System Design</a></p>
 <p align="center"><a href="https://github.com/minchjung/CSstudy/wiki">🔅CS Study</a></p>
 
