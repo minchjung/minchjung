@@ -37,7 +37,7 @@
 <p align="center"><a href="https://github.com/minchjung/SystemDesign">🔅System Design</a></p>
 <p align="center"><a href="https://github.com/minchjung/CSstudy/wiki">🔅CS Study</a></p>
 <p align="center"><a href="https://github.com/minchjung/PROJECTLIST/wiki/Oct">Todo</a></p>
-<p align="center"><a href="https://github.com/minchjung/PROJECTLIST/wiki/Oct">Where to find Chipotle</a></p>
+
 
 <br></br>
 <div align ="center">
