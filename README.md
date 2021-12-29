@@ -30,7 +30,7 @@
 <h4 align="center">Being with your :gift_heart: family</h4>
 <h4 align="center">That's another great way :rocket: to improve every aspect:laughing:</h4>
 <h4 align="center">of you than to have an ugly :shit: retrospect </h4>
-<h4 align="center">Plz give some beat on this rythm </h4>
+<h4 align="center">Plz give some beat on this rhythm </h4>
 <h4 align="center">what a fresh haha 🤪🤪 </h4>
 <p align="center"><a href="https://github.com/minchjung/SpringStudy/wiki/%EB%AA%A9%EC%B0%A8">🔅Spring Study</a></p>
 <p align="center"><a href="https://github.com/minchjung/SystemDesign">🔅System Design</a></p>
