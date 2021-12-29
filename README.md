@@ -37,6 +37,8 @@
 <p align="center"><a href="https://github.com/minchjung/SystemDesign">🔅System Design</a></p>
 <p align="center"><a href="https://github.com/minchjung/CSstudy/wiki">🔅CS Study</a></p>
 <p align="center"><a href="https://github.com/minchjung/PROJECTLIST/wiki/Oct">Todo</a></p>
+<p align="center">Being with your family</p>
+<p align="center">That's another great way to improve every aspect of you than to have an ugly retrospective</p>
 
 
 <br></br>
