@@ -23,22 +23,19 @@
 <p align="center">
     <a href="https://github.com/minchjung"><img src="https://github-readme-stats.vercel.app/api?username=minchjung&hide=contribs,prs&title_color=ff5733&show_icons=true&bg_color=ffffff&text_color=716564&icon_color=ff1500&border_color=ff5733"/></a>
 </p>
-<h4 align="center" style="font-size: x-large;" >  Programming since Dec 20-2020 :footprints:</h4>
+<!-- <h4 align="center" style="font-size: x-large;" >  Programming since Dec 20-2020 :footprints:</h4>
 <h4 align="center">Amazingly love:heart: learning all sortsa skills of Programming</h4>
 <h4 align="center"> Everyday celebratin':tada: of new to learn and fact to know that</h4>
-<h4 align="center">  My life has just getting started :wave:</h4>
-<!-- <h4 align="center">
-    <span> Todo </span>
-    <span>:point_right:</span>
-    <a href="https://github.com/minchjung/PROJECTLIST/wiki/Sep">:dart::dart::dart:</a>
-    <span>:point_left:</span>
-</h4> -->
+<h4 align="center">  My life has just getting started :wave:</h4> -->
+
+<h4 align="center">Being with your family</h4>
+<h4 align="center">That's another great way to improve every aspect of you</h4>
+<h4 align="center">than to have an ugly retrospective</h4>
+
 <p align="center"><a href="https://github.com/minchjung/SpringStudy/wiki/%EB%AA%A9%EC%B0%A8">🔅Spring Study</a></p>
 <p align="center"><a href="https://github.com/minchjung/SystemDesign">🔅System Design</a></p>
 <p align="center"><a href="https://github.com/minchjung/CSstudy/wiki">🔅CS Study</a></p>
 <p align="center"><a href="https://github.com/minchjung/PROJECTLIST/wiki/Oct">Todo</a></p>
-<p align="center">Being with your family</p>
-<p align="center">That's another great way to improve every aspect of you than to have an ugly retrospective</p>
 
 
 <br></br>
