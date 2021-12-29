@@ -28,9 +28,9 @@
 <h4 align="center"> Everyday celebratin':tada: of new to learn and fact to know that</h4>
 <h4 align="center">  My life has just getting started :wave:</h4> -->
 
-<h4 align="center">Being with your family</h4>
-<h4 align="center">That's another great way to improve every aspect of you</h4>
-<h4 align="center">than to have an ugly retrospective</h4>
+<h4 align="center">Being with your :gift_heart: family</h4>
+<h4 align="center">That's another great way :rocket: to improve every aspect of you :laughing:</h4>
+<h4 align="center">than to have an ugly :shit: retrospective </h4>
 
 <p align="center"><a href="https://github.com/minchjung/SpringStudy/wiki/%EB%AA%A9%EC%B0%A8">🔅Spring Study</a></p>
 <p align="center"><a href="https://github.com/minchjung/SystemDesign">🔅System Design</a></p>
