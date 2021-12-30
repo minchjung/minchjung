@@ -20,7 +20,7 @@
 
 </p>
 <p align="center">
-    <a href="https://github.com/minchjung"><img src="https://github-readme-stats.vercel.app/api?username=minchjung&hide=contribs,prs&title_color=ff5733&show_icons=true&bg_color=ffffff&text_color=716564&icon_color=ff1500&border_color=ff5733"/></a>
+    <a href="https://github.com/minchjung"><img src="https://github-readme-stats.vercel.app/api?username=minchjung&hide=stars,prs&title_color=ff5733&show_icons=true&bg_color=ffffff&text_color=716564&icon_color=ff1500&border_color=ff5733"/></a>
 </p>
 <!-- <h4 align="center" style="font-size: x-large;" >  Programming since Dec 20-2020 :footprints:</h4>
 <h4 align="center">Amazingly love:heart: learning all sortsa skills of Programming</h4>
