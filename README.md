@@ -9,14 +9,15 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="65" height="65"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width=65" height=65"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width=65" height=65"/> </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width=65" height=65"/> </a> 
-
+    <a href="https://processing.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg" alt="processing" width=65" height=65"/> </a> 
 </p>
 <p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width=65" height=65"/> </a> 
     <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width=65" height=65"/> </a> 
     <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width=65" height=65"/> </a> 
-    <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width=65" height=65"/> </a> 
+
+
+
 
 </p>
 <p align="center">
@@ -41,11 +42,14 @@
 <br></br>
 <div align ="center">
     <h3>Inept</h3>
+    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width=65" height=65"/> </a> 
     <a href="https://spring.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width=55" height=55"/> </a>
-    <a href="https://kotlin.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width=55" height=55"/> </a>
+    <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width=65" height=65"/> </a> 
+
 
 </div>
 <!-- <div align="center">
+    <a href="https://kotlin.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width=55" height=55"/> </a>
     <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
     <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
     <span><img src="https://img.shields.io/badge/KOTLIN-F94421?style=flat-square&logo=Kotlin&logoColor=0095D5" width="98" height="28"/></a></span>  
