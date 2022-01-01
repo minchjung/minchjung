@@ -35,7 +35,8 @@
 <p align="center"><a href="https://github.com/minchjung/SpringStudy/wiki/%EB%AA%A9%EC%B0%A8">🔅Spring Study</a></p>
 <p align="center"><a href="https://github.com/minchjung/SystemDesign">🔅System Design</a></p>
 <p align="center"><a href="https://github.com/minchjung/CSstudy/wiki">🔅CS Study</a></p>
-<p align="center"><a href="https://github.com/minchjung/PROJECTLIST/wiki/Oct">Todo</a></p>
+
+<!-- <p align="center"><a href="https://github.com/minchjung/PROJECTLIST/wiki/Oct">Todo</a></p> -->
 
 
 <br></br>
