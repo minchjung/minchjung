@@ -14,6 +14,7 @@
 <p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width=65" height=65"/> </a> 
      <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width=65" height=65"/> </a> 
+
 <!--    <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width=65" height=65"/> </a> 
  -->
 
@@ -22,16 +23,16 @@
 <p align="center">
     <a href="https://github.com/minchjung"><img src="https://github-readme-stats.vercel.app/api?username=minchjung&hide=stars,prs&title_color=ff5733&show_icons=true&bg_color=ffffff&text_color=716564&icon_color=ff1500&border_color=ff5733"/></a>
 </p>
-<!-- <h4 align="center" style="font-size: x-large;" >  Programming since Dec 20-2020 :footprints:</h4>
+<h4 align="center" style="font-size: x-large;" >  Programming since Dec 20-2020 :footprints:</h4>
 <h4 align="center">Amazingly love:heart: learning all sortsa skills of Programming</h4>
 <h4 align="center"> Everyday celebratin':tada: of new to learn and fact to know that</h4>
-<h4 align="center">  My life has just getting started :wave:</h4> -->
+<h4 align="center">  My life has just getting started :wave:</h4>
 
-<h4 align="center">Being with your :gift_heart: family</h4>
+<!-- <h4 align="center">Being with your :gift_heart: family</h4>
 <h4 align="center">That's another great way :rocket: to improve every aspect:laughing:</h4>
 <h4 align="center">of you than to have an ugly :shit: retrospect </h4>
 <h4 align="center">Plz give some beat on this rhythm </h4>
-<h4 align="center">what a fresh haha 🤪🤪 </h4>
+<h4 align="center">what a fresh haha 🤪🤪 </h4> -->
 <p align="center"><a href="https://github.com/minchjung/SpringStudy/wiki/%EB%AA%A9%EC%B0%A8">🔅Spring Study</a></p>
 <p align="center"><a href="https://github.com/minchjung/SystemDesign">🔅System Design</a></p>
 <p align="center"><a href="https://github.com/minchjung/CSstudy/wiki">🔅CS Study</a></p>
