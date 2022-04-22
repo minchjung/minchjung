@@ -26,7 +26,7 @@
 <!-- <h4 align="center" style="font-size: x-large;" >  Programming since Dec 20-2020 :footprints:</h4> -->
 <h4 align="center">Amazingly love:heart: learning all sortsa skills of Programming</h4>
 <h4 align="center"> Everyday celebratin':tada: of new to learn and fact to know that</h4>
-<h4 align="center">  My life has just getting started :wave:</h4>
+<h4 align="center">  My life's been just getting started :wave:</h4>
 
 <!-- <h4 align="center">Being with your :gift_heart: family</h4>
 <h4 align="center">That's another great way :rocket: to improve every aspect:laughing:</h4>
