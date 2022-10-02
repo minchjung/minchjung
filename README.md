@@ -54,7 +54,7 @@
     <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
     <span><img src="https://img.shields.io/badge/KOTLIN-F94421?style=flat-square&logo=Kotlin&logoColor=0095D5" width="98" height="28"/></a></span>  
     <span><img src="https://img.shields.io/badge/ReactivX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white" width="98" height="28"/></a></span>  
-    <span><img src="https://img.shields.io/badge/Linux CentOS-EE0000?style=flat-square&logo=RedHat&logoColor=white" width="98" height="28"/></a></span>  
+    <span><img src="https://img.shields.io/badge/Linux CentOS-EE0000?style=flat-square&logo=RedHat&logoColor=white" width="98" height="28"/></a></span> quto updated 
 
 </div>
 
