@@ -13,8 +13,11 @@
 </p>
 <p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width=65" height=65"/> </a> 
-     <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width=65" height=65"/> </a> 
+     <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width=65" height=65"/> </a>
+         <a href="https://www.prisma.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/78589751/216683382-19ec8979-7697-44f8-b079-5f5763df9b29.png" alt="prisma" width=65" height=65"/> </a>
+             <a href="https://graphql.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/78589751/216683784-57212282-5955-4e10-8c1f-9f1762764417.png" alt="graphql" width=65" height=65"/> </a>
 
+    
 <!--    <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width=65" height=65"/> </a> 
  -->
 
