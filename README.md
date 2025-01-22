@@ -16,6 +16,8 @@
         <a href="https://processing.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg" alt="processing" width=65" height=65"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width=65" height=65"/> </a> 
              <a href="https://graphql.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/78589751/216683784-57212282-5955-4e10-8c1f-9f1762764417.png" alt="graphql" width=65" height=65"/> </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width=65" height=65"/> </a> 
+    <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width=65" height=65"/> </a> 
 
     
 <!--    <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width=65" height=65"/> </a> 
@@ -37,19 +39,12 @@
 <h4 align="center">Plz give some beat on this rhythm </h4>
 <h4 align="center">what a fresh haha 🤪🤪 </h4> -->
 <!-- <p align="center"><a href="https://github.com/minchjung/SpringStudy/wiki/%EB%AA%A9%EC%B0%A8">🔅Spring Study, Java work</a></p> -->
-<p align="center"><a href="https://github.com/minchjung/SystemDesign">🔅System Design</a></p>
+<!-- <p align="center"><a href="https://github.com/minchjung/SystemDesign">🔅System Design</a></p>
 <p align="center"><a href="https://github.com/minchjung/CSstudy/wiki">🔅OS Study</a></p>
-<p align="center"><a href="https://github.com/minchjung/PROJECTLIST/wiki/Oct">Todo</a></p>
+<p align="center"><a href="https://github.com/minchjung/PROJECTLIST/wiki/Oct">Todo</a></p> -->
 
 
-<br></br>
-<div align ="center">
-    <h3>Inept</h3>
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width=65" height=65"/> </a> 
-    <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width=65" height=65"/> </a> 
 
-
-</div>
 <!-- <div align="center">
     <a href="https://kotlin.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width=55" height=55"/> </a>
     <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
